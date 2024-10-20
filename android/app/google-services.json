@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481542497843",
+    "project_id": "fir-chat-98dda",
+    "storage_bucket": "fir-chat-98dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481542497843:android:a043d6bc5853bee8366546",
+        "android_client_info": {
+          "package_name": "com.novahumail.firebasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEj6j8gK4Q-JvdARZnhD2d8k0OaorbKmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
